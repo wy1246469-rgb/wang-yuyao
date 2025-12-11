@@ -1,0 +1,7 @@
+{
+  "name": "Hand Puppet Physics",
+  "description": "Control a physics-based puppet with your hand gestures using ml5.js and p5play.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
